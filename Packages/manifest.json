@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.magicleap.unitysdk": "file:/Users/michaelharrison/MagicLeap/tools/unity/v2.6.0/com.magicleap.unitysdk.tgz",
+    "com.magicleap.unitysdk": "file:/Users/avasarganis/MagicLeap/tools/unity/v2.6.0/com.magicleap.unitysdk.tgz",
     "com.magicleap.xrkeyboard": "https://github.com/magicleap/MagicLeapXRKeyboard.git?path=/Packages/MagicLeapXRKeyboard",
     "com.unity.collab-proxy": "2.11.2",
     "com.unity.ide.rider": "3.0.38",
