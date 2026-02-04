@@ -49,21 +49,6 @@ namespace DHVisualization
         AssigningJoint6,
 
         /// <summary>
-        /// Currently assigning Joint 7 (for robots with more joints).
-        /// </summary>
-        AssigningJoint7,
-
-        /// <summary>
-        /// Currently assigning Joint 8 (for robots with more joints).
-        /// </summary>
-        AssigningJoint8,
-
-        /// <summary>
-        /// Currently assigning Joint 9 (for robots with more joints).
-        /// </summary>
-        AssigningJoint9,
-
-        /// <summary>
         /// All joints have been assigned; visualization is complete.
         /// </summary>
         Complete

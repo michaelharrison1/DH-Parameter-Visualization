@@ -165,9 +165,6 @@ namespace DHVisualization
                 4 => VisualizationState.AssigningJoint4,
                 5 => VisualizationState.AssigningJoint5,
                 6 => VisualizationState.AssigningJoint6,
-                7 => VisualizationState.AssigningJoint7,
-                8 => VisualizationState.AssigningJoint8,
-                9 => VisualizationState.AssigningJoint9,
                 _ => VisualizationState.Complete // For joints beyond our enum, treat as complete
             };
         }
